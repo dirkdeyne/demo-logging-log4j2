@@ -46,3 +46,12 @@
 2021-09-20T09:12:54.374+0200 INFO Starting DemoApplicationTests using Java 17 on DESK-DIRK with PID 1660 (started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
 2021-09-20T09:12:54.374+0200 INFO No active profile set, falling back to default profiles: default
 2021-09-20T09:12:55.303+0200 INFO Started DemoApplicationTests in 1.24 seconds (JVM running for 2.018)
+2021-09-20T09:13:09.189+0200 INFO Starting DemoApplication using Java 17 on DESK-DIRK with PID 14516 (C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2\target\classes started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
+2021-09-20T09:13:09.196+0200 INFO No active profile set, falling back to default profiles: default
+2021-09-20T09:13:10.288+0200 INFO Started DemoApplication in 1.485 seconds (JVM running for 1.92)
+2021-09-20T10:05:40.756+0200 INFO Starting DemoApplicationTests using Java 17 on DESK-DIRK with PID 12528 (started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
+2021-09-20T10:05:40.764+0200 INFO No active profile set, falling back to default profiles: default
+2021-09-20T10:05:41.688+0200 INFO Started DemoApplicationTests in 1.221 seconds (JVM running for 1.995)
+2021-09-20T10:05:49.655+0200 INFO Starting DemoApplication using Java 17 on DESK-DIRK with PID 5992 (C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2\target\classes started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
+2021-09-20T10:05:49.662+0200 INFO No active profile set, falling back to default profiles: default
+2021-09-20T10:05:50.729+0200 INFO Started DemoApplication in 1.477 seconds (JVM running for 1.921)
