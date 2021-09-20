@@ -1,0 +1,7 @@
+logging:
+  config: classpath:info-log4j2.xml
+search_files:
+  csv:
+    path: ./
+    name: export_files_
+    extension: .csv

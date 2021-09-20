@@ -1,0 +1,13 @@
+2021-09-19T10:30:15.090+0200 INFO Starting DemoApplication using Java 17 on DESK-DIRK with PID 8256 (C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2\target\classes started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
+2021-09-19T10:30:15.100+0200 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-19T10:30:15.100+0200 INFO No active profile set, falling back to default profiles: default
+2021-09-19T10:30:16.180+0200 INFO Started DemoApplication in 1.324 seconds (JVM running for 1.921)
+2021-09-19T10:32:08.806+0200 INFO Starting DemoApplication using Java 17 on DESK-DIRK with PID 14356 (C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2\target\classes started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
+2021-09-19T10:32:08.815+0200 DEBUG Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-09-19T10:32:08.816+0200 INFO No active profile set, falling back to default profiles: default
+2021-09-19T10:32:09.900+0200 INFO Started DemoApplication in 1.353 seconds (JVM running for 1.928)
+2021-09-19T10:32:14.745+0200 DEBUG user called warn()
+2021-09-19T10:34:40.480+0200 INFO Starting DemoApplication using Java 17 on DESK-DIRK with PID 4860 (C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2\target\classes started by dirkd in C:\Users\dirkd\IdeaProjects\_StackOverflow_\demo-logging-log4j2)
+2021-09-19T10:34:40.494+0200 INFO No active profile set, falling back to default profiles: default
+2021-09-19T10:34:41.609+0200 INFO Started DemoApplication in 1.506 seconds (JVM running for 1.973)
+2021-09-19T10:35:09.452+0200 INFO user called info()
